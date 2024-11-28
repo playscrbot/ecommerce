@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Women's T-Shirt",
+      "image": "tshirt.jpeg",
+      "description": "Comfortable cotton t-shirt for women",
+      "price": 19.99,
+      "category": "Women",
+      "isNew": true,
+      "isOnSale": false
+    },
+    {
+      "id": 2,
+      "name": "Men's Jeans",
+      "image": "jeans.jpeg",
+      "description": "Classic denim jeans for men",
+      "price": 34.99,
+      "category": "Men"
+    },
+    {
+      "id": 3,
+      "name": "Women's Sneakers",
+      "image": "sneakers.jpeg",
+      "description": "Stylish sneakers for women",
+      "price": 29.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Men's Watch",
+      "image": "watch.jpeg",
+      "description": "Elegant wristwatch for men",
+      "price": 79.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Women's Dress",
+      "image": "dress.jpeg",
+      "description": "Beautiful floral dress for women",
+      "price": 0,
+      "category": "Women"
+    },
+    {
+      "id": 6,
+      "name": "Men's Jacket",
+      "image": "jacket.jpeg",
+      "description": "Warm winter jacket for men",
+      "price": 69.99,
+      "category": "Men",
+      "isNew": false,
+      "isOnSale": true
+    },
+    {
+      "id": 7,
+      "name": "Women's Handbag",
+      "image": "handbag.jpeg",
+      "description": "Chic leather handbag for women",
+      "price": 39.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 8,
+      "name": "Men's Shorts",
+      "image": "shorts.jpeg",
+      "description": "Casual cotton shorts for men",
+      "price": 24.99,
+      "category": "Men"
+    },
+    {
+      "id": 9,
+      "name": "Women's Sunglasses",
+      "image": "sunglasses.jpeg",
+      "description": "Trendy sunglasses for women",
+      "price": 19.99,
+      "category": "Accessories",
+      "isNew": false,
+      "isOnSale": true
+    },
+    {
+      "id": 10,
+      "name": "Men's Polo Shirt",
+      "image": "polo.jpeg",
+      "description": "Classic polo shirt for men",
+      "price": 29.99,
+      "category": "Men"
+    },
+    {
+      "id": 11,
+      "name": "Women's Skirt",
+      "image": "skirt.jpeg",
+      "description": "Flowy summer skirt for women",
+      "price": 39.99,
+      "category": "Women"
+    },
+    {
+      "id": 12,
+      "name": "Men's Belt",
+      "image": "belt.jpeg",
+      "description": "Genuine leather belt for men",
+      "price": 14.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "name": "Women's Backpack",
+      "image": "womanbackpack.jpeg",
+      "description": "Versatile backpack for women",
+      "price": 49.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "name": "Men's Formal Shoes",
+      "image": "formalshoes.jpeg",
+      "description": "Classic formal shoes for men",
+      "price": 59.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "name": "Women's Earrings",
+      "image": "earrings.jpeg",
+      "description": "Stylish earrings for women",
+      "price": 12.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 16,
+      "name": "Men's Sweatshirt",
+      "image": "sweatshirt.jpeg",
+      "description": "Cozy sweatshirt for men",
+      "price": 0,
+      "category": "Men",
+      "isNew": true,
+      "isOnSale": false
+    },
+    {
+      "id": 17,
+      "name": "Women's Scarf",
+      "image": "scarf.jpeg",
+      "description": "Soft scarf for women",
+      "price": 16.99,
+      "category": "Women"
+    },
+    {
+      "id": 18,
+      "name": "Men's Backpack",
+      "image": "menbackpack.jpeg",
+      "description": "Durable backpack for men",
+      "price": 34.99,
+      "category": "Accessories"
+    }
+  ]
+}
